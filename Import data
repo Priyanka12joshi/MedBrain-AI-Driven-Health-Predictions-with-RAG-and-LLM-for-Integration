@@ -1,0 +1,5 @@
+!pip install pipenv
+!python -m pipenv install langchain langchain_community langchain_huggingface faiss-cpu
+!pip install langchain langchain_community langchain_huggingface faiss-cpu pypdf
+!pip install streamlit
+!pip install ngrok
